@@ -44,5 +44,4 @@ This project is solved in 304 episodes exceeding average rewards of 13. Below sh
 
 ### Futuee Work
 
-1. Try other model such as TRPO to compare the results between each other.
-2. To make this repo into a general solution for any environment.
+1. Try out with DDPG model to see if it could converge faster.
